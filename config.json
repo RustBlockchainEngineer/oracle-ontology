@@ -1,0 +1,10 @@
+{
+  "WalletFile": "./wallet.dat",
+  "LogLevel": 0,
+  "ONTRPCAddress": "http://127.0.0.1:20336",
+  "ScannerInterval": 10,
+  "GasPrice": 0,
+  "GasLimit": 20000,
+  "ContractAddress": "b869eed573863f8efdb3ae39d4963a781e81d4b3",
+  "RandomOrgKey": "c7511065-c88d-4f28-af4f-293c91ad20d9"
+}
